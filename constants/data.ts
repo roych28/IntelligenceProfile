@@ -120,9 +120,9 @@ export const navItems: NavItem[] = [
   },
   {
     title: 'Search',
-    href: '/dashboard',
+    href: '/dashboard/search',
     icon: 'Search',
-    label: 'Dashboard'
+    label: 'Profile Intelligence'
   },
   {
     title: 'User',
